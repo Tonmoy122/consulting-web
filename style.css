@@ -76,5 +76,25 @@ nav li {
 .secound h4{
     padding-top: 20px;
 }
+.third{
+    height: 98vh;
+    width: 100%;
+    background-image: linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
+    display: flex;
+}
+.flexable{
+    width: 250px;
+    height: 200px;
+    padding-left: 100px;
+    text-align: center;
+    padding-top: 80px;
+    /* border:4px solid #BFD641; */
+}
+.flexable:hover{
+    font-size: 20px;
+    /* border:4px solid #BFD641; */
+    /* border-radius: 2px; */
+}
+
 
 
